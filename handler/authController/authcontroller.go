@@ -14,6 +14,8 @@ import (
 	"golang.org/x/crypto/bcrypt"
 )
 
+// test branch
+
 type Auth struct {
 	logger *logrus.Logger
 	render *renderer.Render
